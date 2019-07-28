@@ -1,7 +1,7 @@
 # Blockchain-Voting-System 
 
 # Problem Statement
-Current voting system is tedious, less transparent and there are always the chances of faults which leads to discrepancy between political parties regarding the results.
+Current voting system is tedious, less transparent and there are always chances of faults which leads to discrepancy between political parties regarding the results.
 Therefore, our agenda is to implement a smooth and reliable voting mechanism which is suitable enough to overthrow the traditional methods and also to ensure the solution is fit and optimized enough for scaling in future.
 
 # Solution
